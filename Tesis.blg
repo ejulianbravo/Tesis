@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Tesis.aux
+A level-1 auxiliary file: HojaTitulo/HojaTitulo.aux
+A level-1 auxiliary file: Intro/Intro.aux
+A level-1 auxiliary file: Materiales/Materiales.aux
+A level-1 auxiliary file: Resultados/Resultados.aux
+A level-1 auxiliary file: Discusion/Discusion.aux
+A level-1 auxiliary file: Conclusion/Conclusion.aux
+A level-1 auxiliary file: Anexos/Anexos.aux
+The style file: plaindin_esp.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: Biblio/Biblio.bib
+Warning--empty edition in AmericanPsychiatricAssociation2013
+Warning--empty edition in Goodwin2007
+Warning--empty edition in Praag1993
+Warning--empty school in RiveraViera2013
+Warning--empty school in VelasquezSuarez2013
+You've used 45 entries,
+            2720 wiz_defined-function locations,
+            926 strings with 14314 characters,
+and the built_in function-call counts, 37105 in all, are:
+= -- 4041
+> -- 992
+< -- 1180
++ -- 1318
+- -- 434
+* -- 3381
+:= -- 6358
+add.period$ -- 44
+call.type$ -- 45
+change.case$ -- 264
+chr.to.int$ -- 0
+cite$ -- 50
+duplicate$ -- 704
+empty$ -- 2185
+format.name$ -- 522
+if$ -- 6911
+int.to.chr$ -- 0
+int.to.str$ -- 45
+missing$ -- 85
+newline$ -- 309
+num.names$ -- 90
+pop$ -- 237
+preamble$ -- 1
+purify$ -- 264
+quote$ -- 0
+skip$ -- 1296
+stack$ -- 0
+substring$ -- 4485
+swap$ -- 338
+text.length$ -- 255
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 174
+warning$ -- 5
+while$ -- 382
+width$ -- 47
+write$ -- 663
+(There were 5 warnings)
