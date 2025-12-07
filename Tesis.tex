@@ -1,0 +1,24 @@
+\input{EncabezadoTesis}
+\begin{document}
+\pagenumbering{roman}
+\include{HojaTitulo/HojaTitulo}
+\renewcommand{\tablename}{\textbf{Tabla}}
+\renewcommand{\figurename}{\textbf{Figura}}
+\renewcommand{\listtablename}{Lista de Tablas}
+\renewcommand{\listfigurename}{Lista de Figuras}
+\renewcommand{\contentsname}{Contenido}
+
+\tableofcontents
+\pagenumbering{arabic}
+\include{Intro/Intro}
+\include{Materiales/Materiales}
+\include{Resultados/Resultados}
+\include{Discusion/Discusion}
+\include{Conclusion/Conclusion}
+\include{Anexos/Anexos}
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Bibliograf\'{i}a}
+\bibliographystyle{plaindin_esp}
+\bibliography{Biblio/Biblio}
+\end{document}
